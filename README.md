@@ -36,20 +36,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
 
-  <!-- .NET and Frameworks -->
+  <!-- Frameworks -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Core" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Entity_Framework_Logo.png" alt="Entity Framework" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Ajax_logo_by_gengns.svg" alt="AJAX" width="40" height="40"/> 
 
   <!-- Databases -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-
-  <!-- UI Library -->
-  <img src="https://seeklogo.com/images/S/syncfusion-logo-0D3F9A61D3-seeklogo.com.png" alt="Syncfusion" width="40" height="40"/> 
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharathhk2003&show_icons=true&locale=en&layout=compact" alt="sharathhk2003" /></p>
