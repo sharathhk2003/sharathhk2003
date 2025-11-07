@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm SHARATH HK</h1>
-<h3 align="center">I am a BE student pursuing Computer Science and Engineering at JSS Science and Technology University, Mysuru.</h3>
+<h3 align="center">I am a BE graduate in Computer Science and Engineering from JSS Science and Technology University, Mysuru.</h3>
+
+<p align="center">
+  A dedicated and analytical software developer with a strong foundation in application design and development using 
+  <b>ASP.NET Core (C#)</b>. Experienced in building secure, efficient, and maintainable backend systems with robust database 
+  management skills in <b>PostgreSQL</b> and <b>Microsoft SQL Server</b>.
+</p>
+
+<p align="center">
+  Passionate about solving real-world challenges through technology, I aim to contribute to dynamic software engineering teams 
+  by delivering high-quality, scalable, and reliable solutions while continuously expanding my technical expertise.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathhk2003&label=Profile%20views&color=0e75b6&style=flat" alt="sharathhk2003" /> </p>
 
